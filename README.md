@@ -1,4 +1,6 @@
 ### [![Build Status](https://travis-ci.org/Commit451/ElasticDragDismissLayout.svg?branch=master)](https://travis-ci.org/Commit451/ElasticDragDismissLayout) [![](https://jitpack.io/v/Commit451/ElasticDragDismissLayout.svg)](https://jitpack.io/#Commit451/ElasticDragDismissLayout)
+![Sample Gif](http://i.imgur.com/AXvw7Ll.gif)
+<img src="/art/sample.gif?raw=true" width="200px">
 <!--
 **ajorani92/ajorani92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
