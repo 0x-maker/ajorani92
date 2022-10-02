@@ -1,4 +1,4 @@
-### <a href="https://ibb.co/6J1Vq6d"><img src="https://i.ibb.co/dJL1Hnh/git.gif" alt="git" border="0"></a>
+### <a href="//imgur.com/a/hD34ppB.gif"></a>
 <!--
 **ajorani92/ajorani92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
