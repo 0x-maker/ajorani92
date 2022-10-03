@@ -2,4 +2,4 @@
 
 <img src="/readme-frontpage/git.gif?raw=true" width="100%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajorani92&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajorani92&bg_color=30,e96443,904e95&title_color=120c18&text_color=120c18)
