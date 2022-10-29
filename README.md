@@ -9,4 +9,4 @@
 
 <a href="https://app.artopia.dev/"><img src="https://custom-icon-badges.herokuapp.com/badge/App-black.svg?style=flat&logo=logo-new" width="19%" target="blank"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajorani92&hide=java&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
