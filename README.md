@@ -1,6 +1,6 @@
 ### ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ajorani92.visitor-badge)
 
-p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Ali+Jorani!;Founder+@+Artopia!;Self+Taught+Fullstack+Dev!;Discover+Rare+Artworks+From+Various+Artists+On+Fantom+Protocol!;Visit+artopia.dev+Now!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
