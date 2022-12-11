@@ -13,3 +13,4 @@
 <a href="https://app.artopia.dev/"><img src="https://custom-icon-badges.herokuapp.com/badge/App-black.svg?style=flat&logo=logo-new" width="19%" target="blank"></a>
 
 
+[![GitHub Contributions](https://raw.githubusercontent.com/ajorani92/ajorani92/output/github-contribution-grid-snake.svg)](https://github.com/ajorani92)
